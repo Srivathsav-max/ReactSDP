@@ -1,5 +1,6 @@
 <h1 align=center>E-Commerce Website with Django + React & Redux</h1>
-#How to Run 🏃‍♀️
+
+# How to Run 🏃‍♀️
 
 > Front End
 
