@@ -1,6 +1,6 @@
 <h1 align=center>E-Commerce Website with Django + React & Redux</h1>
 ### How to Run 🏃‍♀️
-
+#Backend
 ```shell
 1 Clone This Repo
 2 cd backend
@@ -9,6 +9,12 @@
 5 pip install -r requirements.txt 
 6 python manage.py runserver
 
+```
+#Fornt End
+```
+1. cd frontend
+2. npm i 
+3. npm run / npm start
 ```
 
 ### 🚀 Project Features
