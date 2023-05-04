@@ -2,17 +2,17 @@
 
 # How to Run 🏃‍♀️
 
-> Front End
+> Back End
 
 ```
-Clone This Repo
+1 Clone This Repo
 2 cd backend
 3 python -m venv env
 4 .\env\Scripts\activate
 5 pip install -r requirements.txt 
 6 python manage.py runserver
 ```
-> Backend
+> Front End
 ```
 1. cd frontend
 2. npm i 
